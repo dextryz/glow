@@ -1,0 +1,15 @@
+# style name or JSON path (default "auto")
+# solarized-mono: mirrors ~/.config/nvim/colors/solarized-mono.lua, the
+# ghostty solarized-mono theme and the [colors] table in ~/.config/jj/config.toml.
+#   bg #073642  bg_hl #0e414e  dim #586e74  fg #91a0a2
+#   accents: strings/inline code/quotes cyan300 #2beede, numbers cyan #2aa298,
+#   links violet #9b9fec, errors red #ff9b99, diff +#d6ffad / -#ff9b99
+style: "/Users/dexex/.config/glow/solarized-mono.json"
+# mouse support (TUI-mode only)
+mouse: false
+# use pager to display markdown
+pager: false
+# word-wrap at width
+width: 80
+# show all files, including hidden and ignored.
+all: false
